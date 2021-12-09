@@ -1,0 +1,26 @@
+# Introduction 
+
+## Resonances
+
+"Histories are all-too-often appropriated for museum exhibits and visitor centers without collaboration or consultation with descendant communities. Not only do Black and Native people remain uncompensated for their heritage, they aren’t even asked if those who took this “knowledge” got the facts right." *Why the Whiteness of Archaeology Is a Problem* by [William White](https://www.sapiens.org/authors/william-white/) and [Catherine Draycott](https://www.sapiens.org/authors/catherine-draycott/)
+
+This reminds me of a book I started (but haven't finished yet) called *The Inconvenient Indian* by Thomas King. In it, King describes this history of First Nations people in North America, and as a First Nations person himself, he describes many stories that are wrongly translated into modern legends. Many parts of these stories are considered historical, and are even taught in schools, but they are often false and can be largely attributed to older stories which white historians either believed were true, or were added for entertainment purposes. It brings the question, how much of the history that we know is simply false, and is simply the result of racism and a lack of communication?
+
+"Though archaeology may be characterised as a research endeavour, it is predominantly practiced as a service sector, presenting an overwhelming structural challenge to the widespread adoption of technology-enabled civic participation in the knowledge production process."[Brendon Wilkins](https://journal.caa-international.org/articles/10.5334/jcaa.34/)
+
+I like this quote because I've never thought of archaeology in this way before. It's interesting to think or a field which is entirely based on the study of physical human remains to be of the same type as a lawn care business, or a car rental service for example. It makes sense when we consider things like rescue archaeology, or when using the idea that we are contributing to public knowledge. Sometimes the evidence which is found can have profound impacts on communities, and can provide new insights on an area's history.
+
+
+## Response to the Prompts
+
+This week dealt mainly with the analysis and comparison of topic models. In the instructions for this week, an example was made where topic models are like an aerial view of literary evidence, and I don't think I could have thought of a better comparison. It visually helps answer different questions on a larger scale, which simply can't be understood in any other way. 
+
+In the "year" view of the topic model, several topics stood out as either gradually gaining popularity, or losing popularity. The first topic is on articles with the words "found, site, stone, small..." and this may indicate a gradual reduction in new archaeological finds. The earliest year with the most articles was 1935, while the latest year was 2013, with almost no articles. With large parts of our world having been mapped and explored, it makes sense that less and less archaeological sites would be discovered.
+
+Another topic is with articles mentioning the words "social, women, material, gender...", which have shown a gradual increase in numbers since the 1960's. This heavily relates to the *A “Leaky” Pipeline and Chilly Climate in Archaeology in Canada* article by Lisa Overholtzer and Catherine L. Jalbert which covers the retention of women in university departments. We can assume that the increase in the stream graph represents the general acceptance of women in the workplace in the last 60 years, which likely would have influenced the creation of these articles, yet it is important to note the small nature of this topic in comparison to others, further proving the research in the article.
+
+In comparison, starting in the 1960's, there was also an explosion of articles which featured words such as "research, american, study, cultural...". This implies an increased interest in the study of american archaeology, which increased until 1980, decreased until 2010, and appears to be increasing again up to 2013. 
+
+I noted that many many papers listed as containing these words often had very little to do with two or more words in the list. For example, for the previous topic where the two most common words were "research" and "american", there were articles titled *Archaeology and Physical Anthropology in Oceania*, *Trade and Culture Process in European Prehistory*, *The South African Archaeological Bulletin*, and more. This indicates a bias in the combined use of these words, since "research" and "american" might not necessarily be linked. It might be better to examine each noun individually instead in order to get more accurate results.
+
+In examples from World Archaeology, we can see similar things, with topics like "press, material, world, landscape..." increasing, "found, made, small, area" decreasing, and many others maintaining relatively equal quantities over time. This shows that even though both topic models feature different information, they both share very similar attributes.
